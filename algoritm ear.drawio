@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T13:03:50.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LK6C92sT2Lgv0EO5mY7g" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T13:04:34.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UMqNmwGhmR8-MaWMAf6q" version="21.3.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="467" dy="247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="560" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -42,7 +42,7 @@
             <mxPoint x="430" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l-F1KTOtRn9Ps7DQi2KS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l-F1KTOtRn9Ps7DQi2KS-4" target="l-F1KTOtRn9Ps7DQi2KS-7">
+        <mxCell id="l-F1KTOtRn9Ps7DQi2KS-6" value="нет" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l-F1KTOtRn9Ps7DQi2KS-4" target="l-F1KTOtRn9Ps7DQi2KS-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="330" as="targetPoint" />
             <Array as="points">
