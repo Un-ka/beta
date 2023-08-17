@@ -26,3 +26,6 @@ This is probably the format you're looking for.
 | 35 | GPIO19 | - | 36 | GPIO16 | - |
 | 37 | GPIO26 | - | 38 | GPIO20 | - |
 | 39 | GND | - | 40 | GPIO21 | - |
+
+
+https://app.diagrams.net/#HUn-ka%2Fbeta%2Fmain%2Falgoritm%20ear.drawio
